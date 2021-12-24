@@ -3,6 +3,8 @@ contactsApp springboot application(API)
 
 Simple Springboot API developed using springboot and MySql 8 
 It is a Gradle project. So, no need to add any other external dependencies 
+
+
 Features:
 
 
